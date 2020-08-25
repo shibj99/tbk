@@ -1,6 +1,6 @@
 <?php
 
-namespace Bojan\Tbk\Base\Domain;
+namespace BojanShi\Tbk\Base\Domain;
 
 /**
  * results

@@ -1,6 +1,6 @@
 <?php
 
-namespace Bojan\Tbk\Base\Domain;
+namespace BojanShi\Tbk\Base\Domain;
 
 /**
  * 请求列表，内部包含多个url

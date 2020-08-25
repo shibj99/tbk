@@ -1,6 +1,6 @@
 <?php
 
-namespace Bojan\Tbk\Base;
+namespace BojanShi\Tbk\Base;
 
 class SpiUtils{
 	private static $top_sign_list = "HTTP_TOP_SIGN_LIST";

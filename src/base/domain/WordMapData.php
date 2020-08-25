@@ -1,6 +1,6 @@
 <?php
 
-namespace Bojan\Tbk\Base\Domain;
+namespace BojanShi\Tbk\Base\Domain;
 
 /**
  * 商品信息-商品关联词

@@ -1,8 +1,8 @@
 <?php
 
-namespace Bojan\Tbk;
+namespace BojanShi\Tbk;
 
-use Bojan\Tbk\Base\TopClient;
+use BojanShi\Tbk\Base\TopClient;
 
 /**
  * Class Factory.

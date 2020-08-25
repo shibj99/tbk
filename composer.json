@@ -1,5 +1,5 @@
 {
-    "name": "bojan/tbk-for-laravel",
+    "name": "bojanshi/tbk-for-laravel",
     "description": "淘宝客 Laravel",
     "type": "library",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Bojan\\Tbk\\": "src/"
+            "BojanShi\\Tbk\\": "src/"
         }
     },
     "minimum-stability": "dev"

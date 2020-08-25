@@ -1,6 +1,6 @@
 <?php
 
-namespace Bojan\Tbk\Base;
+namespace BojanShi\Tbk\Base;
 
 class TopClient
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Bojan\Tbk\Base\Request;
+namespace BojanShi\Tbk\Base\Request;
 
 /**
  * TOP API: taobao.tbk.coupon.get request

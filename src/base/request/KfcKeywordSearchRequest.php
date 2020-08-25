@@ -1,7 +1,7 @@
 <?php
-namespace Bojan\Tbk\Base\Request;
+namespace BojanShi\Tbk\Base\Request;
 
-use Bojan\Tbk\Base\RequestCheckUtil;
+use BojanShi\Tbk\Base\RequestCheckUtil;
 
 /**
  * TOP API: taobao.kfc.keyword.search request

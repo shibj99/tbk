@@ -1,6 +1,6 @@
 <?php
 
-namespace Bojan\Tbk;
+namespace BojanShi\Tbk;
 
 use Illuminate\Foundation\Application as LaravelApplication;
 use Laravel\Lumen\Application as LumenApplication;
